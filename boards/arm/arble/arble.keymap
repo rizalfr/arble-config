@@ -46,7 +46,7 @@
         &kp F7   &bt BT_SEL 0  &rgb_ug RGB_HUI   &rgb_ug RGB_BRI    &trans   &trans    &trans   &trans    &trans   &trans    &trans   &trans    &trans   &trans  &bootloader
         &kp F8   &bt BT_SEL 1  &rgb_ug RGB_HUD   &rgb_ug RGB_BRD    &trans    &trans   &trans    &trans   &trans    &trans   &trans    &trans   &ext_power EP_TOG  &out OUT_TOG
         &bt BT_SEL 2  &trans   &trans   &trans   &trans    &trans   &trans    &trans   &trans    &trans   &trans    &kp C_VOL_UP    &trans
-        &bt BT_SEL 3  &rgb_ug RGB_EFF   &trans   &rgb_ug RGB_TOG    &kp C_PREV  &kp C_VOL_DN    &kp C_NEXT
+        &bt BT_SEL 3  &rgb_ug RGB_EFF   &trans   &rgb_ug RGB_TOG    &kp C_PREV  &kp C_VOL_DN    &kp C_NEXT 
       >;
     };
   };
