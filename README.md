@@ -5,6 +5,6 @@
 5. click to download firmware once build is finished, extract it to get `arble.uf2`
 6. reset your PCB, short it with tweezer or click reset button twice, there will be `NRF52BOOT` on your explorer/finder
 7. drag `arble.uf2` to the removable disk drive
-8. enjoy your rable!
+8. enjoy your arble!
 
 thanks to alabahuy for making the PCB reality!
