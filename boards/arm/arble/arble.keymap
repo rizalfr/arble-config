@@ -46,7 +46,7 @@
         &bt BT_SEL 0  &trans   &trans    &kp UP   &trans    &trans   &trans    &trans   &trans    &trans   &trans    &trans   &trans  &trans
         &bt BT_SEL 1   &trans  &kp LEFT  &kp DOWN &kp RIGHT &trans    &trans   &kp LEFT  &kp DOWN &kp UP   &kp RIGHT  &trans   &trans    &rgb_ug RGB_TOG 
                       &trans   &trans    &trans   &trans    &trans   &trans    &trans   &trans    &trans   &trans    &trans   &trans
-                      &trans   &trans    &rgb_ug RGB_TOG    &kp C_PREV  &kp C_VOL_DN    &kp C_NEXT 
+                      &trans   &trans    &rgb_ug RGB_TOG    &kp C_PREV  &kp C_VOL_DN    &reset    &bootloader
       >;
     };
   };
