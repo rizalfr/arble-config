@@ -21,7 +21,7 @@
         // | K_MUTE  | ESC |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  0  |  -  |  =  |  BKSP  |   DEL   |
         // | K_VOL_UP  | TAB  |  Q  |  W  |  E  |  R  |  T  |  Y  |  U  |  I  |  O  |  P  |  [  |  ]  |   "  |    "     | 
         // | K_VOL_DN  | CAPS   |  A  |  S  |  D  |  F  |  G  |  H  |  J  |  K  |  L  |  ;  |  '  |        ENTER        |
-        // |     |  SHIFT  |  Z  |  X  |  C  |  V  |  B  |  B  |  N  |  M  |  ,  |  .  |  /  |   SHIFT   |  MO(1) |
+        // |     |  SHIFT  |  Z  |  X  |  C  |  V  |  B  |  B  |  N  |  M  |  ,  |  .  |  /  |   SHIFT   |  MO(2) |
         // |     |  CTL  |       |  WIN  |  SPACE  |  MO(1)  |        |  SPACE  |  ALT  |               |   CTL   |
         // ----------------------------------------------------------------------------------------------------------
       bindings = <
