@@ -38,7 +38,7 @@ jobs:
       - name: List modules (west list)
         run: west list
       - name: Build (west build)
-        run: west build --pristine -s zmk/app -b arble -- -DZMK_CONFIG="${GITHUB_WORKSPACE}/config" -DDTS_OVERLAY_FILE="${GITHUB_WORKSPACE}/config/arble-user.keymap"
+        run: west build --pristine -s zmk/app -b arble -- -DZMK_CONFIG="${GITHUB_WORKSPACE}/config" -DDTS_OVERLAY_FILE="${GITHUB_WORKSPACE}/config/arble.keymap"
       - name: arble .config
         if: ${{ always() }}
         run: cat -n build/zephyr/.config
