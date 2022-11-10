@@ -5,8 +5,9 @@ manifest:
     - name: rizalfr
       url-base: https://github.com/rizalfr
   projects:
-    - name: arble-config
-      remote: rizalfr
+    - name: zmk
+      remote: zmkfirmware
       revision: main
+      import: app/west.yml
   self:
     path: config
