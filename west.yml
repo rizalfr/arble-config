@@ -1,12 +1,10 @@
 manifest:
   remotes:
-    - name: zmkfirmware
-      url-base: https://github.com/zmkfirmware
-    - name: alabahuy & rizalfr
-      url-base: https://github.com/alabahuy
+    - name: arble-config
+      url-base: https://github.com/rizalfr
   projects:
     - name: zmk
-      remote: zmkfirmware
+      remote: arble-config
       revision: main
       import: app/west.yml
   self:
