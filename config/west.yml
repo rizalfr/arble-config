@@ -6,7 +6,7 @@ manifest:
       url-base: https://github.com/alabahuy
   projects:
     - name: zmk
-      remote: zmkfirmware
+      remote: rizalfr
       revision: main
       import: app/west.yml
   self:
