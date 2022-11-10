@@ -5,8 +5,8 @@ manifest:
     - name: alabahuy & rizalfr
       url-base: https://github.com/alabahuy
   projects:
-    - name: arble-config
-      remote: rizalfr
+    - name: zmk
+      remote: zmkfirmware
       revision: main
       import: app/west.yml
   self:
